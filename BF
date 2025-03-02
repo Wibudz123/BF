@@ -310,7 +310,6 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
-    Logo = "https://images-ext-1.discordapp.net/external/gPgGhPdlyDXRrLSvvidxGt_vXBEGGmd60vKRMawSwDc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1075426714055868566/9d381d7fe78141487ba9ae379589ab93.png?format=webp&quality=lossless&width=676&height=676"
     Title = "ServiceGame",
     SubTitle = "",
     TabWidth = 160,
